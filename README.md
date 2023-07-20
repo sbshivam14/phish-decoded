@@ -1,6 +1,3 @@
-### [+] Description :
-
-***A bash phishing script for phishing login social media pages***
 <h3><p align="center">Disclaimer</p></h3>
 
 <i>Any actions and or activities related to <b>PHISH-DECODED</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
@@ -9,7 +6,11 @@
 
 <b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
 
-### [+] Install primary dependencies (git, bash, cloudflare Binary)
+### [+] Description :
+
+***A bash phishing script for phishing login social media pages***
+
+### [+] Install dependencies (git, bash, cloudflare Binary)
  - For Debian (Kali-Linux)
     - ``` chmod +x requirement.sh ```
     - ``` ./requirement.sh ```
